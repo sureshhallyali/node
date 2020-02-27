@@ -1,9 +1,6 @@
 Node.js is an open-source, cross-platform, 
 JavaScript runtime environment build on chrome  that executes JavaScript code outside of a browser.
 
-
-Usefull packages
-
 npm init --yes
 npm install express body-parser --save
 npm install --save mongoose
