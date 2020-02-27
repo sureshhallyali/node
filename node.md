@@ -3,36 +3,9 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment build 
 
 Usefull packages
 
-Bcrypt
-Express
-Nodemon
-    Npm install --save-dev
-    
-    
-    
-    
-    
 npm init --yes
 npm install express body-parser --save
 npm install --save mongoose
-
-ng g nameOfService
-
-
-
-
-
-
-node js jwt explation
-https://www.youtube.com/watch?v=2jqok-WgelI
-https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
-
-https://www.youtube.com/watch?v=elgGfsqG8nU&list=PLy9JCsy2u97k6olfalMTA_XSPz4pNuT46&index=3
-
-https://www.youtube.com/user/thenewboston/channels
-
-
-
 
 
 To npm to initialtial project  setup of project
@@ -40,14 +13,16 @@ To npm to initialtial project  setup of project
     	--y (yes) set the default setting and it will create file  package.json 
 To install package  
     npm install package_name 
-         for 'install'  shortcut we can use 'i'
+        	 for 'install'  shortcut we can use 'i'
 To install as dependencies package
-         npm i --save package_name
+    npm i --save package_name
 To install as development dependancy package
     npm i --save-dev package_name
 
 
 node js Package list
+   
+    Bcrypt
     http
     file
     express
@@ -61,8 +36,8 @@ node js Package list
     socket.io 
     passport 
     joi             ->for validation
-   dotenv      secreate environment varibale
-   nodemon
+    dotenv      secreate environment varibale
+    nodemon
 
     Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. 
     It is designed for building web applications and APIs. 
@@ -124,3 +99,13 @@ s.cfm
 
 mongodb core explaine in video
 https://www.youtube.com/watch?v=RPf4RBg-vPU&list=PLWPirh4EWFpG2gpAkHVocvvzIWNGet2BF&index=9 
+
+
+node js jwt explation
+https://www.youtube.com/watch?v=2jqok-WgelI
+https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
+
+https://www.youtube.com/watch?v=elgGfsqG8nU&list=PLy9JCsy2u97k6olfalMTA_XSPz4pNuT46&index=3
+
+https://www.youtube.com/user/thenewboston/channels
+
