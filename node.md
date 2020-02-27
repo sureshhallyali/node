@@ -22,6 +22,7 @@ node js Package list
 Inbuilt node packages
     http	-->For http req handling.
     file	--> For handing file System.
+    crypto	--> use to perform cryptographic operations on data
     
 Third party node packages
     express		--> Framework
@@ -33,11 +34,11 @@ Third party node packages
     bcrypt
     morgan      -->
     socket.io 
-    passport 
+    passport 	-->
     joi         -->For validation
     dotenv      -->secreate environment varibale
     nodemon	-->restart Server at every save file automatically
-    Bcrypt      -->To allow cryptography 
+    Bcrypt      -->To allow cryptography   password hashing function designed
 
     Express.js, or simply Express, is a web application framework for Node.js,
     Released as free and open-source software under the MIT License.It is designed for building web applications and APIs.
@@ -58,8 +59,9 @@ Third party node packages
     Nodemon 
     Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
     Perfect for development. Install it using npm. Just use nodemon instead of node to run your code, 
-    and now your process will automatically restart when your code    changes.
+    and now your process will automatically restart when your code changes.
     need to add in (package.json)  script  "devStart":nodemon server.js"
+    Which allows to  restart server automatically.
 
     CORS
     Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell 
